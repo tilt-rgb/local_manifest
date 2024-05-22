@@ -16,5 +16,5 @@
     <project name="Lavender-Gang/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="AOSP-14" remote="github" />
     <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="Lavender-Gang/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="14.0" remote="github" />
-    <project name="PixelOS-AOSP/android_hardware_xiaomi" path="hardware/xiaomi" revision="fourteen" remote="github" />
+    <project name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" revision="fourteen" remote="github" />
 </manifest>
