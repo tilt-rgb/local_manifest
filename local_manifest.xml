@@ -5,9 +5,9 @@
     <remote name="github" fetch="https://github.com/" />
     
     <!-- Remove HAL's -->
-    <remove-project name="LeafOS-Project/android_hardware_qcom_display" />
-    <remove-project name="LeafOS-Project/android_hardware_qcom_media" />
-    <remove-project name="LeafOS-Project/android_hardware_qcom_audio" />
+    <remove-project name="LineageOS/android_hardware_qcom_display" />
+    <remove-project name="LineageOS/android_hardware_qcom_media" />
+    <remove-project name="LineageOS/android_hardware_qcom_audio" />
 
     <!--HAL's & Tree's-->
     <project name="Evolution-X/hardware_qcom-caf_sdm660_display" path="hardware/qcom-caf/msm8998/display" revision="udc" remote="github" />
@@ -16,5 +16,6 @@
     <project name="Lavender-Gang/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="Evox-A14" remote="github" />
     <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="Lavender-Gang/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="14.0" remote="github" />
+    <project name="Lavender-Gang/vendor_lineage-priv_keys" path="vendor/rising/signing/keys" revision="main" remote="github" />
     <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-21" remote="github" />
 </manifest>
