@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
+    <!-- Tracking -->
+    <remote name="github" fetch="https://github.com/" />
+    
     <!-- Remove HAL's -->
     <remove-project name="DerpFest-AOSP/hardware_qcom_display" />
     <remove-project name="DerpFest-AOSP/hardware_qcom_media" />
