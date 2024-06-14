@@ -13,6 +13,6 @@
     <project name="tilt-rgb/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="Rising" remote="github" />
     <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="Lavender-Gang/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="14.0" remote="github" />
-    <project name="Lavender-Gang/vendor_lineage-priv_keys" path="vendor/rising/signing/keys" revision="main" remote="github" />
+    <project name="Lavender-Gang/vendor_lineage-priv_keys" path="vendor/lineage-priv/keys" revision="main" remote="github" />
     <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-21" remote="github" />
 </manifest>
