@@ -10,7 +10,7 @@
     <project name="Evolution-X/hardware_qcom-caf_sdm660_display" path="hardware/qcom-caf/msm8998/display" revision="udc" remote="github" />
     <project name="Evolution-X/hardware_qcom-caf_sdm660_media" path="hardware/qcom-caf/msm8998/media" revision="udc" remote="github" />
     <project name="Evolution-X/hardware_qcom-caf_sdm660_audio" path="hardware/qcom-caf/msm8998/audio" revision="udc" remote="github" />
-    <project name="Lavender-Gang/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="WIP" remote="github" />
+    <project name="Lavender-Gang/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="crDroid-WIP" remote="github" />
     <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="Lavender-Gang/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-21" remote="github" />
