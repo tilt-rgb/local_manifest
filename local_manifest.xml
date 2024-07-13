@@ -2,9 +2,9 @@
 <manifest>
     
     <!-- Remove HAL's -->
-    <remove-project name="ProjectEverest/android_hardware_qcom_display" />
-    <remove-project name="ProjectEverest/android_hardware_qcom_media" />
-    <remove-project name="ProjectEverest/android_hardware_qcom_audio"/>
+    <remove-project name="android_hardware_qcom_display" />
+    <remove-project name="android_hardware_qcom_media" />
+    <remove-project name="android_hardware_qcom_audio"/>
     
     <!--HAL's & Tree's-->
     <project name="Evolution-X/hardware_qcom-caf_sdm660_display" path="hardware/qcom-caf/sdm660/display" revision="udc" remote="github" />
