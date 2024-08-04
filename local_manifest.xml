@@ -10,9 +10,9 @@
     <remove-project name="android_hardware_qcom_audio" />
 
     <!--HAL's & Tree's-->
-    <project name="Ratoriku-Studio/android_hardware_qcom-caf_sdm660_display" path="hardware/qcom-caf/sdm660/display" revision="arrow-13.1-caf-sdm660" remote="github"/>
-    <project name="Ratoriku-Studio/android_hardware_qcom-caf_sdm660_media" path="hardware/qcom-caf/msdm660/media" revision="tangerine" remote="github"/>
-    <project name="Ratoriku-Studio/android_hardware_qcom-caf_sdm660_audio" path="hardware/qcom-caf/sdm660/audio" revision="tangerine" remote="github"/>
+    <project name="Lavender-LineageOS/hardware_qcom-caf_sdm660_display" path="hardware/qcom-caf/sdm660/display" revision="lineage-21.0" remote="github"/>
+    <project name="Lavender-LineageOS/hardware_qcom-caf_sdm660_media" path="hardware/qcom-caf/sdm660/media" revision="lineage-21.0" remote="github"/>
+    <project name="Lavender-LineageOS/hardware_qcom-caf_sdm660_audio" path="hardware/qcom-caf/sdm660/audio" revision="lineage-21.0" remote="github"/>
     <project name="tilt-rgb/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="arrow-13.1" remote="github" />
     <project name="Ratoriku-Studio/device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" revision="arrow-13.1" remote="github" />
     <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0" remote="github" />
